@@ -1,2 +1,1 @@
-# SKRL_UAS
-Ujian Akhir Semester Mata Kuliah Sistem Kontrol Robotika Lanjut 
+# Ujian Akhir Semester Mata Kuliah Sistem Kontrol Robotika Lanjut 
